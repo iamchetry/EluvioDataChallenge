@@ -1,0 +1,84 @@
+Params : {'max_depth': 15, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 200}
+AUC : 0.6827389899087043
+===========================================
+Params : {'max_depth': 15, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 100}
+AUC : 0.6788487157046722
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 200}
+AUC : 0.6806401414111442
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6905866943373046
+===========================================
+Params : {'max_depth': 15, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6851680072233288
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 100}
+AUC : 0.6833675672090473
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 200}
+AUC : 0.6878222829878772
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 200}
+AUC : 0.6899738126585483
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 300}
+AUC : 0.6882653871518387
+===========================================
+Params : {'max_depth': 15, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 100}
+AUC : 0.6740632351379585
+===========================================
+Params : {'max_depth': 15, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 100}
+AUC : 0.6760728135076788
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 100}
+AUC : 0.6750559526953245
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 300}
+AUC : 0.6731538476375034
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 100}
+AUC : 0.6774707036167675
+===========================================
+Params : {'max_depth': 15, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 300}
+AUC : 0.6825559224808477
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 200}
+AUC : 0.6785877566601962
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6910448349429639
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 100}
+AUC : 0.6814247546391993
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 100}
+AUC : 0.682818567839229
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6910448349429639
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6905289297219115
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+AUC : 0.6918984030566853
+===========================================

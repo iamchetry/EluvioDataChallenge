@@ -1,0 +1,51 @@
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 300}
+F1_Score : 0.3550623017400013
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 200}
+F1_Score : 0.35509257872143757
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 100}
+F1_Score : 0.13146533659529713
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+F1_Score : 0.19494400985312904
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 300}
+F1_Score : 0.2843636139513899
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 200}
+F1_Score : 0.1448383260068794
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 300}
+F1_Score : 0.3548120258651066
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 2, 'n_estimators': 300}
+F1_Score : 0.19691450309285938
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 100}
+F1_Score : 0.13150732797312636
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 300}
+F1_Score : 0.1348266785941968
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 100}
+F1_Score : 0.14881331507339104
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 300}
+F1_Score : 0.35579031713308895
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.1, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 200}
+F1_Score : 0.35525181008229073
+===========================================
+Params : {'max_depth': 10, 'min_child_weight': 3, 'reg_alpha': 0.01, 'reg_lambda': 0.5, 'colsample_bytree': 1, 'scale_pos_weight': 5, 'n_estimators': 100}
+F1_Score : 0.3218592584775085
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 10, 'reg_alpha': 0.01, 'reg_lambda': 0.5, 'colsample_bytree': 0.5, 'scale_pos_weight': 5, 'n_estimators': 100}
+F1_Score : 0.35072548342165955
+===========================================
+Params : {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 2, 'n_estimators': 200}
+F1_Score : 0.17980499607434672
+===========================================
+Params : {'max_depth': 15, 'min_child_weight': 3, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'colsample_bytree': 0.5, 'scale_pos_weight': 6, 'n_estimators': 300}
+F1_Score : 0.10323030758890481
+===========================================
